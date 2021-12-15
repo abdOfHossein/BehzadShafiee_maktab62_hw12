@@ -1,0 +1,25 @@
+[
+    {
+        "username": "ali",
+        "password": "1234",
+        "email": "ali@yahoo.com",
+        "gender":"mail",
+        "isLoggin":false
+    }
+    ,
+    {
+        "username": "zahra",
+        "password": "1324",
+        "email": "zahra@yahoo.com",
+        "gender":"femail",
+        "isLoggin":false
+    }
+    ,
+    {
+        "username": "reza",
+        "password": "4321",
+        "email": "reza@yahoo.com",
+        "gender":"mail",
+        "isLoggin":false
+    }
+]

@@ -1,0 +1,47 @@
+.countainer {
+    display: flex;
+    position: relative;
+    justify-content: center;
+}
+
+
+.d-form {
+    top: 150px;
+    position: absolute;
+    display: block;
+    z-index: 1;
+    width: 300px;
+}
+
+.img {
+    width: 1200px;
+    height: 650px;
+    object-fit: cover
+}
+
+.d-img {
+    position: absolute;
+    display: block;
+    z-index: 0;
+    padding: 5px;
+}
+
+.content-btn {
+    margin: 3px auto 0;
+}
+
+#btn-BLogin {
+    margin: 3px;
+    float: left;
+}
+
+#btn-reg {
+    margin: 3px;
+    float: left;
+}
+
+.d-gender{
+    margin-top: 4px;
+}
+
+

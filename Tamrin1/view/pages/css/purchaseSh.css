@@ -1,0 +1,38 @@
+ /* @font-face {
+   
+    font-family: 'farsi';
+    src: url(Fonts/BYekan.ttf);
+    unicode-range: U+0600-06FF;
+}
+
+@font-face {
+  
+    font-family: 'english';
+    src: url(Fonts/ALGER.TTF);
+    unicode-range: U+0020-007F;
+}
+
+body {
+    font-family: 'farsi';
+} */
+
+.countainer {
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.ul-shoose {
+    width: 400px;
+
+}
+
+.li-color {
+    direction: ltr;
+}
+
+.img-shoose-3{
+    width: 500px;
+    height: 500px;
+}
